@@ -1,0 +1,87 @@
+[[AdvancedFormat]]
+
+[[Block:Intro]]
+
+[[Question:TE]]
+[[ID:t_first_name]]
+Please provide your first name.
+
+[[Question:TE]]
+[[ID:t_last_name]]
+Please provide your last name.
+
+[[Question:TE]]
+[[ID:t_survey_date]]
+What is today's date?
+
+[[Question:TE]]
+[[ID:t_email]]
+Please provide your email address.
+
+[[Question:TE]]
+[[ID:t_school_name]]
+What school do you teach at?
+
+[[Block:Background Information]]
+
+[[Question:TE]]
+[[ID:t_age]]
+What is your age?
+
+[[Question:MC]]
+[[ID:t_gender]]
+What is your gender?
+[[AdvancedChoices]]
+[[Choice:1]]
+Male
+[[Choice:2]]
+Female
+[[Choice:3]]
+Gender not listed here (please specify): ____________________
+[[Choice:4]]
+Prefer not to say
+
+[[Question:MC:MultipleAnswer]]
+[[ID:t_grade]]
+Which grade(s) do you teach? Select all that apply.
+[[AdvancedChoices]]
+[[Choice:0]]
+Kindergarten
+[[Choice:1]]
+Grade 1
+[[Choice:2]]
+Grade 2
+[[Choice:3]]
+Grade 3
+[[Choice:4]]
+Grade 4
+[[Choice:5]]
+Grade 5
+
+[[Block:Perceived Stress Scale]]
+
+[[Question:Matrix]]
+[[ID:t_pss]]
+In the past month, how often have you...
+[[Choices]]
+been upset because of something that happened unexpectedly?
+felt unable to control the important things in your life?
+felt nervous or stressed?
+felt confident about your ability to handle personal problems?
+felt that things were going your way?
+found that you could not cope with all the things you had to do?
+been able to control irritations in your life?
+felt that you were on top of things?
+been angry because of things that happened that were outside of your control?
+felt that difficulties were piling up so high that you could not overcome them?
+[[AdvancedAnswers]]
+[[Answer:0]]
+Never
+[[Answer:1]]
+Almost Never
+[[Answer:2]]
+Sometimes
+[[Answer:3]]
+Fairly Often
+[[Answer:4]]
+Very Often
