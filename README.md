@@ -15,6 +15,7 @@ Files included in this repo:
     - Version 1 (tch_svy_data_dictionary_v1.xlsx)
     - Version 2 (tch_svy_data_dictionary_v2.xlsx)
     - Version 3 (tch_svy_data_dictionary_v3.xlsx)
-      - The final REDCap final data dictionary revised by Crystal
+      - The final REDCap final data dictionary revised by Crystal  
+6. Qualtrics TXT Import File (teacher_survey_qualtrics.txt)  
 
 Link to the Qualtrics survey draft: https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_6mwWWHj7jpvH3Zc
