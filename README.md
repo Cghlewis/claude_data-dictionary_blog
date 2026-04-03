@@ -11,11 +11,11 @@ Files included in this repo:
 2. Data Dictionary Template (data_dictionary_template.xlsx)
 3. PSS Documentation(perceived-stress-scale.pdf)  
     - This file retrieved from https://www.slu.edu/medicine/family-medicine/-pdf/perceived-stress-scale.pdf
-5. All versions of the data dictionary created throughout the session  
+4. All versions of the data dictionary created throughout the session  
     - Version 1 (tch_svy_data_dictionary_v1.xlsx)
     - Version 2 (tch_svy_data_dictionary_v2.xlsx)
     - Version 3 (tch_svy_data_dictionary_v3.xlsx)
       - The final REDCap final data dictionary revised by Crystal  
-6. Qualtrics TXT Import File (teacher_survey_qualtrics.txt)  
+5. Qualtrics TXT Import File (teacher_survey_qualtrics.txt)  
 
 Link to the Qualtrics survey draft: https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_6mwWWHj7jpvH3Zc
