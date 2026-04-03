@@ -1,6 +1,6 @@
 ### This repository includes files referenced in the following blog post
 
-Lewis, Crystal. 2026. “Creating Data Dictionary Drafts Using Claude.” March 27, 2026. https://cghlewis.com//blog/claude_dictionary
+Lewis, Crystal. 2026. “Creating Data Dictionary Drafts Using Claude.” April 3, 2026. https://cghlewis.com//blog/claude_dictionary
 
 Claude transcripts:
 1. [Claude chat transcript to create data dictionary](https://claude.ai/share/4e98f785-b496-4fb1-8cb4-f862044fb8af)
